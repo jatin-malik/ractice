@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.faviana.testScripts.Faviana_Registration">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="generateReport"/>
+          <include name="quitDriver"/>
+          <include name="ApplicationLandingPage"/>
+          <include name="deleteFolder"/>
+          <include name="startTest"/>
+        </methods>
+      </class> <!-- com.faviana.testScripts.Faviana_Registration -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
