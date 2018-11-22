@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-11-14T09:34:35Z" name="Default suite" finished-at="2018-11-14T09:35:40Z" duration-ms="64819">
+  <suite started-at="2018-11-15T12:01:22Z" name="Default suite" finished-at="2018-11-15T12:02:03Z" duration-ms="41652">
     <groups>
     </groups>
-    <test started-at="2018-11-14T09:34:35Z" name="Default test" finished-at="2018-11-14T09:35:40Z" duration-ms="64819">
+    <test started-at="2018-11-15T12:01:22Z" name="Default test" finished-at="2018-11-15T12:02:03Z" duration-ms="41652">
       <class name="com.faviana.testScripts.Faviana_Registration">
-        <test-method is-config="true" signature="deleteFolder()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:34:35Z" name="deleteFolder" finished-at="2018-11-14T09:34:35Z" duration-ms="125" status="PASS">
+        <test-method is-config="true" signature="deleteFolder()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:01:22Z" name="deleteFolder" finished-at="2018-11-15T12:01:22Z" duration-ms="145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteFolder -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:34:35Z" name="setUp" finished-at="2018-11-14T09:35:31Z" duration-ms="56193" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:01:22Z" name="setUp" finished-at="2018-11-15T12:01:53Z" duration-ms="31370" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:35:31Z" name="startTest" finished-at="2018-11-14T09:35:31Z" duration-ms="37" status="PASS">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:01:53Z" name="startTest" finished-at="2018-11-15T12:01:53Z" duration-ms="50" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,26 +26,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="ApplicationLandingPage()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:35:31Z" name="ApplicationLandingPage" description="User is able to Login to Faviana" finished-at="2018-11-14T09:35:39Z" duration-ms="7518" status="PASS">
+        <test-method signature="ApplicationLandingPage()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:01:53Z" name="ApplicationLandingPage" description="User is able to Login to Faviana" finished-at="2018-11-15T12:02:03Z" duration-ms="9449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ApplicationLandingPage -->
-        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:35:39Z" name="afterMethod" finished-at="2018-11-14T09:35:39Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:02:03Z" name="quitDriver" finished-at="2018-11-15T12:02:03Z" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:02:03Z" name="afterMethod" finished-at="2018-11-15T12:02:03Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=ApplicationLandingPage status=SUCCESS method=Faviana_Registration.ApplicationLandingPage()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97] output={null}]]]>
+                <![CDATA[[TestResult name=ApplicationLandingPage status=SUCCESS method=Faviana_Registration.ApplicationLandingPage()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:35:39Z" name="quitDriver" finished-at="2018-11-14T09:35:40Z" duration-ms="1040" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quitDriver -->
-        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@7c83dc97]" started-at="2018-11-14T09:35:40Z" name="generateReport" finished-at="2018-11-14T09:35:41Z" duration-ms="483" status="PASS">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.faviana.testScripts.Faviana_Registration@55740540]" started-at="2018-11-15T12:02:04Z" name="generateReport" finished-at="2018-11-15T12:02:04Z" duration-ms="487" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
